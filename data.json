@@ -1,0 +1,61 @@
+
+[
+    {
+    "id":1,
+    "tituloItem": "Campera Jeans Azul",
+    "itemPrice": 5200,
+    "itemImage": "./img/campera1.jpeg",
+    "btnAgregaCarrito": "Añadir Carrito"
+
+    },
+
+    {
+    "id":2,
+    "tituloItem": "Sweater beige",
+    "itemPrice": 3500,
+    "itemImage": "./img/campera2.jpeg",
+    "btnAgregaCarrito": "Añadir Carrito"
+    },
+    {
+    "id":3,
+    "tituloItem": "Chaleco Engomado Marro",
+    "itemPrice": 4500,
+    "itemImage": "./img/campera3.jpeg",
+    "btnAgregaCarrito": "Añadir Carrito"
+    },
+    {
+    "id":4,
+    "tituloItem": "Campera Jeans Con Corderito",
+    "itemPrice": 5500,
+    "itemImage": "./img/campera4.jpeg",
+    "btnAgregaCarrito": "Añadir Carrito"
+    },
+    {
+    "id":5,
+    "tituloItem": "Campera Puffer Negra",
+    "itemPrice": 4500,
+    "itemImage": "./img/campera5.jpeg",
+    "btnAgregaCarrito": "Añadir Carrito"
+    },
+    {
+    "id":6,
+    "tituloItem":  "Cardigan Verde",
+    "itemPrice": 4300,
+    "itemImage": "./img/campera6.jpeg",
+    "btnAgregaCarrito": "Añadir Carrito"
+    },
+    {
+    "id":7,
+    "tituloItem": "Chaleco Puffer Blanco",
+    "itemPrice": 4500,
+    "itemImage": "./img/campera7.jpeg",
+    "btnAgregaCarrito": "Añadir Carrito"
+    },
+    {
+    "id":8,
+    "tituloItem":  "Buzo Alaska",
+    "itemPrice": 3000,
+    "itemImage": "./img/campera8.jpeg",
+    "btnAgregaCarrito": "Añadir Carrito"
+    }
+]
